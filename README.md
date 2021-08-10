@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src=https://giphy.com/embed/13HgwGsXF0aiGY" alt="ThisIsOK!" width="300"/>
 <iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
 
 - 🔭 I’m currently working on Game Development
