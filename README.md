@@ -24,10 +24,10 @@
  
 <hr>
 
-<code><a target="_blank"><img height="70" src="https://github.com/canklot/canklot/blob/main/media/unity.png?raw=true"></a></code>
-<code><a target="_blank"><img height="70" src="https://raw.githubusercontent.com/canklot/canklot/main/media/unreal.png"></a></code>
-<code><a target="_blank"><img height="70" src="https://github.com/canklot/canklot/blob/main/media/mssql-trans.png?raw=true"></a></code>
-<code><a target="_blank"><img height="70" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></a></code>
+<code><a target="_blank"><img height="100" src="https://github.com/canklot/canklot/blob/main/media/unity.png?raw=true"></a></code>
+<code><a target="_blank"><img height="100" src="https://raw.githubusercontent.com/canklot/canklot/main/media/unreal.png"></a></code>
+<code><a target="_blank"><img height="100" src="https://github.com/canklot/canklot/blob/main/media/mssql-trans.png?raw=true"></a></code>
+<code><a target="_blank"><img height="100" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></a></code>
  
 <hr>
 
