@@ -44,6 +44,10 @@
 
 [Dont click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+<div align="center" >
+<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</div>
 
 ### ⚙️ GitHub Analytics
 
@@ -52,9 +56,6 @@
   <img  width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canklot&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-<div align="center" >
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-</div>
+
 
 
