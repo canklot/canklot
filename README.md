@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<div>
 <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/source.gif" alt="Welcome!" width="300"/>
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif" alt="ThisIsOK!"/>
 
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif" alt="ThisIsOK!"/>
+</div>
 
 - 🔭 I’m currently working on Game Development
 - 🌱 I’m currently learning Unity
