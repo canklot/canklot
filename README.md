@@ -16,7 +16,7 @@
 </br>
 
 
-[Definitely not sus](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[Dont click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 <p align="center">
