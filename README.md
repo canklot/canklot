@@ -18,6 +18,7 @@
 
 [Dont click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+### ⚙️ GitHub Analytics
 
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
