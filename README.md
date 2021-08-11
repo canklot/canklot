@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi <img width="32" src="https://github.com/canklot/canklot/blob/main/media/wave.gif/">, I'm Work In Progress </h1>
+
 
 <div align="center" >
 <img src="https://i.giphy.com/13HgwGsXF0aiGY/source.gif" alt="CalmInChaos!" width="800"/>
@@ -6,7 +6,8 @@
 
 </br>
 </br>
-  
+
+### <h1 align="center"> Hi <img width="32" src="https://github.com/canklot/canklot/blob/main/media/wave.gif/">, I'm Work In Progress </h1>
 
 - 🔭 I’m currently working on Game Development
 - 🌱 I’m currently learning Unity
