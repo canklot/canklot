@@ -21,29 +21,6 @@
 <hr>
 
 
-
-
-<details><summary>💻 Technologies I Work On</summary>
- 
-<hr>
-
-<code><a target="_blank"><img height="100" src="https://github.com/canklot/canklot/blob/main/media/unity.png?raw=true"></a></code>
-<code><a target="_blank"><img height="100" src="https://raw.githubusercontent.com/canklot/canklot/main/media/unreal.png"></a></code>
-<code><a target="_blank"><img height="100" src="https://github.com/canklot/canklot/blob/main/media/mssql-trans.png?raw=true"></a></code>
-<code><a target="_blank"><img height="100" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"></a></code>
- 
-<hr>
-
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://ata.com.tr/upload/5caeeca914578.png"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" width="60px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true"></a></code>
-
-<hr>
-
-</details>
-
-
 ## 🛠️ My Skills
 <Skils>
  
