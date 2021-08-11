@@ -1,10 +1,10 @@
 ### 
 
-<div align="center" width="50">
+<div align="center">
 <img src="https://github.com/canklot/canklot/blob/main/media/rocket.gif" alt="InfinityAndBeyond!" width="300"/>
 </div>
   
-<div align="center" width="50">
+<div align="center" >
 <img src="https://i.giphy.com/13HgwGsXF0aiGY/source.gif" alt="Welcome!" width="300"/>
 </div>
 
