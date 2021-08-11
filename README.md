@@ -20,8 +20,8 @@
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=canklot&theme=tokyonight" />
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=canklot&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=canklot&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
