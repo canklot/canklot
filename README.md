@@ -47,8 +47,8 @@
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <img  height="200" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canklot&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img  width="47%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
+  <img  width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canklot&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <div align="center" >
