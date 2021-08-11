@@ -1,4 +1,4 @@
-### <h1 align="center"> Hi <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Nubudy
+### <h1 align="center"> Hi <img width="32" src="https://raw.githubusercontent.com/fatiiates/fatiiates/main/wave.gif"/>, I'm Nubudy </h1>
 
 <div align="center" width="50">
 <img src="https://github.com/canklot/canklot/blob/main/media/rocket.gif" alt="InfinityAndBeyond!" width="300"/>
