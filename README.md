@@ -47,7 +47,7 @@
 [Dont click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
-<i>Random dev joke for you!</i><br>
+# Random dev joke for you!
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
