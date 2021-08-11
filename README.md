@@ -17,7 +17,7 @@
 </br>
 
 
-[Dont click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 
 <details><summary>💻 Technologies I Work On</summary>
@@ -31,17 +31,18 @@
  
 <hr>
 
-
-
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://ata.com.tr/upload/5caeeca914578.png"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
 <code><a href="" target="_blank"><img height="50" width="60px" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_postgresql.png?raw=true"></a></code>
 
-
 <hr>
 
 </details>
+
+
+[Dont click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 
 ### ⚙️ GitHub Analytics
 
