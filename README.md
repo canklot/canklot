@@ -5,7 +5,7 @@
 </div>
   
 <div align="center" >
-<img src="https://i.giphy.com/13HgwGsXF0aiGY/source.gif" alt="Welcome!" width="300"/>
+<img src="https://i.giphy.com/13HgwGsXF0aiGY/source.gif" alt="CalmInChaos!" width="500"/>
 </div>
 
   
