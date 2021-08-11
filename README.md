@@ -26,6 +26,6 @@
 </div>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafacandan211/)
-[![](https://img.shields.io/badge/Email-sayginyil%40gmail.com-blue)](mailto:shouligiveyoumyemaikimnotsure@gmail.com)
+[![](https://img.shields.io/badge/Email-mail%40gmail.com-blue)](mailto:shouligiveyoumyemaikimnotsure@gmail.com)
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@mustafacandan211)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Canklot)
