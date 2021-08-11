@@ -19,6 +19,11 @@
 [Here is my Projects](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=canklot&theme=tokyonight" />
+  
+</p>
 
 <div align="center" >
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
