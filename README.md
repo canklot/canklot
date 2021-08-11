@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-<div>
-<img src="https://i.giphy.com/media/13HgwGsXF0aiGY/source.gif" alt="Welcome!" width="300"/>
+<div align="center" width="50">
 
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif" alt="ThisIsOK!"/>
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
 </div>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif" alt="ThisIsOK!"/>
+
 
 - 🔭 I’m currently working on Game Development
 - 🌱 I’m currently learning Unity
