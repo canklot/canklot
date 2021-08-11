@@ -22,7 +22,7 @@
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=canklot&theme=tokyonight" />
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=canklot&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=canklot&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <div align="center" >
