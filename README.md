@@ -9,11 +9,11 @@
 </div>
 
   
-<div align="center" >
+
 - 🔭 I’m currently working on Game Development
 - 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on any types of games
-</div>
+
 
 <div align="center" >
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
