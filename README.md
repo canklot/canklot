@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
-<img src=https://giphy.com/embed/13HgwGsXF0aiGY" alt="ThisIsOK!" width="300"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/source.gif" alt="ThisIsOK!" width="300"/>
 <iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/13HgwGsXF0aiGY">via GIPHY</a></p>
 
 - 🔭 I’m currently working on Game Development
