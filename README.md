@@ -37,20 +37,6 @@
 <code><a href="" target="_blank"><img height="50" src="https://yganalyst.github.io/assets/images/crawling.png"></a></code>
 <code><a href="" target="_blank"><img height="50" src="https://miro.medium.com/max/1200/0*RP3QEulh5aepQ_Ef.png"></a></code>
 
-<hr>
-
-<code><a href="" target="_blank"><img height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" /></a></code>
-</code>
-<code><a href="" target="_blank"><img height="50" src="https://matplotlib.org/_static/logo2_compressed.svg" /></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://www.tableau.com/sites/default/files/pages/tableau_cmyk_2015.png" /></a></code>
-
-
-
-<hr>
-
-<code><a href="" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></a></code>
-<code><a href="" target="_blank"><img height="50" src="https://github.com/jalbertsr/logo-badge-images/blob/master/img/rsz_heroku.png?raw=true"></a></code>
-
 
 <hr>
 
