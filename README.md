@@ -3,7 +3,10 @@
 <div align="center">
 <img src="https://github.com/canklot/canklot/blob/main/media/rocket.gif" alt="InfinityAndBeyond!" width="300"/>
 </div>
-  
+
+</br>
+</br>
+
 <div align="center" >
 <img src="https://i.giphy.com/13HgwGsXF0aiGY/source.gif" alt="CalmInChaos!" width="500"/>
 </div>
@@ -16,6 +19,8 @@
 - 🌱 I’m currently learning Unity
 - 👯 I’m looking to collaborate on any types of games
 
+</br>
+</br>
 
 <div align="center" >
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
