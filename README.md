@@ -7,7 +7,7 @@
 </br>
 </br>
 
-### <h1 align="center"> Hi <img width="32" src="https://github.com/canklot/canklot/blob/main/media/wave.gif/"> </h1>
+### <h1 align="center"> I'm not resposible for any fire that caused by my code <img width="32" src="https://github.com/canklot/canklot/blob/main/media/wave.gif/"> </h1>
 
 - 🔭 I’m currently working on Game Development
 - 🌱 I’m currently learning Unity
