@@ -67,7 +67,11 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+  &emsp;
+ <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
+  </a>
+
 </p>
 
 ### 👉 Databases & Cloud Hosting
