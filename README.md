@@ -69,7 +69,7 @@
   </a>
   &emsp;
  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white"/>
+    <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=Unity&logoColor=white"/>
   </a>
 
 </p>
