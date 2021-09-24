@@ -82,6 +82,9 @@
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
  
+### 👉 Tools
+ Tesseract, OCR
+ 
  </Skils>
 
 
