@@ -16,7 +16,7 @@
 
 [Dont click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<a href="https://readme-jokes.vercel.app"><img align="center"  width="100%" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<a href="https://readme-jokes.vercel.app"><img align="center"  src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
 <p align="center">
