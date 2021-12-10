@@ -14,18 +14,11 @@
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@mustafacandan211)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Canklot)
 
-
-
-
-
 [Dont click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 
 # Random dev joke for you!
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
-
-### ⚙️ GitHub Analytics
 
 <p align="center">
   <img  width="57%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
