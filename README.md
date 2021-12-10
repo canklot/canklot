@@ -2,7 +2,7 @@
 ### <h1 align="center"> <img width="48" src="https://github.com/canklot/canklot/blob/main/media/fire.gif/"> I'm not resposible for any fire that caused by my code <img width="48" src="https://github.com/canklot/canklot/blob/main/media/fire.gif/"> </h1>
 
 <div align="center" >
-<img src="https://i.giphy.com/13HgwGsXF0aiGY/source.gif" alt="CalmInChaos!" width="800"/>
+<img src="https://i.giphy.com/13HgwGsXF0aiGY/source.gif" alt="CalmInChaos!"  width="90%" />
 </div>
 
 </br>
