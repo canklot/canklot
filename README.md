@@ -16,6 +16,6 @@
 <a href="https://readme-jokes.vercel.app"><img align="center" width="57%" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 <p>
-  <img  width="57%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
-  <img  width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=canklot&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img  width="90%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
+ 
 </p>
