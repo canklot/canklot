@@ -13,6 +13,7 @@
 [![](https://img.shields.io/badge/-Dont%20Click-red)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 <p>
-  <a href="https://readme-jokes.vercel.app"><img  width="49%" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-  <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
+   <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
+  <a href="https://readme-jokes.vercel.app"><img  align="top" width="49%" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+ 
 </p>
