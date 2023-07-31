@@ -12,9 +12,3 @@
 [![](https://img.shields.io/badge/Medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white)](https://medium.com/@mustafacandan211)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/Canklot)
 [![](https://img.shields.io/badge/-Dont%20Click-red)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-<p>
-   <img  width="49%" src="https://github-readme-stats.vercel.app/api?username=canklot&show_icons=true&theme=tokyonight" />
-  <a href="https://readme-jokes.vercel.app"><img  align="top" width="49%" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
- 
-</p>
