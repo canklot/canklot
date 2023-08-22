@@ -1,10 +1,19 @@
 
-### <h1 align="center"> <img width="48" src="https://github.com/canklot/canklot/blob/main/media/fire.gif/"> I'm not responsible for any fire that is caused by my code <img width="48" src="https://github.com/canklot/canklot/blob/main/media/fire.gif/"> </h1>
+<h1 align="center"> 
+  <img width="48" src="https://github.com/canklot/canklot/blob/main/media/fire.gif/"> 
+    I'm not responsible for any fire that is caused by my code
+  <img width="48" src="https://github.com/canklot/canklot/blob/main/media/fire.gif/"> 
+</h1>
 
 <div align="center" >
 <img src="https://i.giphy.com/13HgwGsXF0aiGY/source.gif" alt="CalmInChaos!"  width="100%" />
 </div>
 
+<br>
+<h2> Open Source Projects I have contributed </h2>
+<li> https://github.com/github/choosealicense.com </li>
+<li> https://github.com/WhyNotHugo/python-barcode </li> 
+<li> https://github.com/pymupdf/PyMuPDF-Utilities </li> 
 <br>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafacandan211/)
